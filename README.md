@@ -1,1 +1,1 @@
-# JavaScript
+## Dokumen Sintaks JavaScript oleh Jatayu Nymphaea
